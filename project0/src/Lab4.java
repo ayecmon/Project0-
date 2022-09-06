@@ -4,8 +4,8 @@
 // SPECIFICATION:Practical using arrays
 // FOR: CS 1400 - Lab #4
 // TIME SPENT: 1.5 hours
-//first Commit
- */
+//Second Commit
+*/
 //-----------------------------------------------------------*/
 
 import java.util.Scanner;
